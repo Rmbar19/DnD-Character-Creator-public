@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:ital,wght@1,500&display=swap');
+
+.App {
+  text-align: center;
+
+  background-image: url(tableBackground.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+#containerdiv{
+  text-align: center;
+
+  background-image: url(tableBackground.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.mainpagediv {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+} 
+
+
+
+

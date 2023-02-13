@@ -1,0 +1,63 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:ital,wght@1,500&display=swap');
+
+#signupbutton{
+   
+    width: 200px;
+    position: absolute;
+    text-align: center;
+    background-color: transparent;
+    right: 60%;
+    left: 30%;
+    bottom: 33%;
+    color: white;
+    border: none;
+}
+
+.shield-text{
+    font-family: 'Zilla Slab', serif;
+
+    position: absolute;
+    font-size: 30px;
+    right: 40%;
+    left: 27%;
+    bottom: 37%;
+    text-shadow: 2px 2px black;
+}
+
+#scene{
+    width: 200px;
+    position: absolute;
+    text-align: center;
+    background-color: transparent;
+    right: 60%;
+    left: 30%;
+    bottom: 33%;
+    color: white;
+    border: none;
+}
+/* #pshield{ */
+    /* left: 0%;
+    bottom: 50%;
+    top: 50%; */
+
+/* } */
+
+h2{
+    font-family: 'Zilla Slab', serif;
+
+    position: absolute;
+    font-size: 30px;
+    right: 40%;
+    left: 27%;
+    bottom: 50%;
+    top: 70%;
+    text-shadow: 2px 2px black;
+}
+#idtextdiv{
+    top: 0%;
+}
+
+#scroll{
+    size: 200px;
+}

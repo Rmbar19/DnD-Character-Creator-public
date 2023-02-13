@@ -1,0 +1,23 @@
+.loadcharacter {
+    background-image: url(greenArts.png);
+    color:rgb(239, 237, 237);
+    background-color: transparent !important;
+    border: 0px !important;
+    background-repeat: no-repeat;
+    background-image: cover;
+    background-position: center;
+    background-size: 13vw 13vw;
+    font-family: f;
+    font-weight: bold;
+    padding-top: 3vw;;
+    padding-bottom: 3vw;
+    padding-right: 3vw;
+    padding-left: 3vw;
+    cursor: pointer;
+    position: fixed;
+    text-shadow: 1px 1px rgba(121, 58, 2, 0.767);
+    left: 1vw;
+    top: 1vw;
+    height:13vw;
+    width:13vw
+    }

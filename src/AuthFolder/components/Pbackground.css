@@ -1,0 +1,31 @@
+#background{
+    position: relative;
+ bottom: 0%;
+ left: 0%;
+}
+
+#scene{
+    position: relative;
+    bottom: -20em;
+    left: -4em;
+    height: 100%;
+    width: 100%;
+}
+
+#btext{
+    position: relative;
+    /* bottom: em; */
+    top: -10em;
+    left: 20em;
+    right: -2em;
+    font-size: 25px;
+}
+
+#image1{
+position: relative;
+left: 99em;
+}
+#image2{
+    position: relative;
+    left: 30em;
+}

@@ -1,0 +1,28 @@
+.usernametext{
+    color: aliceblue;
+    position: absolute;
+    font-size: 2.05vh;
+    left: 37%;
+    top: 3.6em;
+    text-shadow: 1px 1px black;
+    text-align: center;
+}
+
+.userbox{
+    background-image: url('../AuthFolder/assets/wolfsword.png');
+    background-size: 46vh;
+    background-repeat: no-repeat;
+   
+    position: absolute;
+    right: 0em;
+    bottom: 4em;
+    width: 30em;
+    background-position: center -7em;
+    
+}
+
+#logout{
+    position: relative;
+    top: 10.5em;
+    left: 0em
+}

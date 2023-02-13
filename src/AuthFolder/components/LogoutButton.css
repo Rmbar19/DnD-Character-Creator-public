@@ -1,0 +1,26 @@
+#logoutButton{
+    background-color: transparent;
+    
+}
+
+.logouttext{
+    color: aliceblue;
+    position: absolute;
+    font-size: 2vw;
+    right: 4vw;
+    left: 4vw;
+    bottom: 6vw;
+    text-shadow: 2px 2px black;
+    /* background-color: rgb(0, 0, 0,0.3); */
+}
+
+.logouttext1{
+    color: aliceblue;
+    position: absolute;
+    font-size: 2vw;
+    right: 4vw;
+    left: 4vw;
+    bottom: 4vw;
+    text-shadow: 2px 2px black;
+    /* background-color: rgb(0, 0, 0,0.3); */
+}

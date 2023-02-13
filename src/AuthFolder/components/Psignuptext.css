@@ -1,0 +1,12 @@
+h2{
+    width: 200px;
+    position: absolute;
+    text-align: center;
+    background-color: transparent;
+    right: 60%;
+    left: 50%;
+    bottom: 50%;
+    top: 2em;
+    color: white;
+    border: none;
+}

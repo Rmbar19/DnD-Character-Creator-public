@@ -1,0 +1,22 @@
+.add-button {
+    color:rgb(0, 0, 0);
+    background-image: url(schamaticScroll.png);
+    background-color: transparent !important;
+    border: 0px !important;
+    background-repeat: no-repeat;
+    background-image: contain;
+    background-size: 200px 200px;
+    font-family: f;
+    font-weight: bold;
+    padding-top: 145px;
+    padding-bottom: 25px;
+    padding-left: 30px;
+    padding-bottom: 15px;
+    padding-top: 130px;
+    padding-right: 55px;
+    cursor: pointer;
+    position: fixed;
+    text-shadow: 1px 1px rgba(121, 58, 2, 0.767);
+    left: 10px;
+    bottom: 10px;
+}

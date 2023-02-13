@@ -1,0 +1,116 @@
+div {
+  font-size: 0.75vw;
+}
+.label {
+  font-size: 1.5vw;
+}
+.userbox {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  color: rgb(176, 174, 174);
+  font-family: f;
+}
+.LogOut {
+  text-decoration: underline;
+  cursor: pointer;
+  width: 15vw;
+  height: 2vw;
+
+}
+.createNewCharacter {
+  font-size: 18px;
+  color: rgb(249, 18, 18);
+  border: 10em;
+  border-color: rgb(0, 0, 0);
+  opacity: 50%;
+  padding: 0;
+  position: fixed;
+  bottom: 5px;
+  left: 5px;
+  cursor: pointer;
+  font-family: f;
+}
+.Create {
+  color: aliceblue;
+}
+.modal-dialog {
+  color: rgb(0, 0, 0);
+  font-family: f;
+}
+.closeButton {
+  background-color: black;
+}
+
+.newCharacter {
+  color: rgb(4, 4, 4);
+  font-family: f;
+  padding-bottom: 50px;
+  background-image: url(dnd-group-lineup.jpg);
+  background-position-x: top;
+  background-size: cover;
+  font-weight: bold;
+  text-shadow: 1px 1px red;
+  text-align: center;
+  margin-bottom: 40px;
+}
+.race-class-selection {
+  display: flex;
+}
+.wizard {
+  background-color: darkred;
+  width: 20vw;
+  height: 25vw;
+}
+input {
+  width: 19vw;
+  height: 2vw;
+}
+.race-class {
+  width: 9vw;
+  margin: 0.5vw;
+  border: black solid 1px;
+  height: 18vw;
+}
+.wizard-button {
+  height: 1.5vw;
+  width: 3vw;
+  text-align: center;
+  margin-left: 0.5vw;
+  margin-right: 0.5vw;
+}
+.proficiency-select {
+  width: 100%;
+  height: 65%;
+}
+.race {
+  height: 5vw;
+}
+.ability-point-selection {
+  width: 19vw;
+}
+.point-buy {
+  width: 5vw;
+}
+.ability {
+  display: flex;
+  cursor: pointer;
+}
+.ability-label {
+  width: 1vw;
+}
+
+.characterSheet {
+  position: absolute;
+  width: 40vw;
+  height: 50vw;
+  background-image: url(./frontend/character_sheet.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.charactersheetInput {
+  position: absolute;
+  background-color: transparent;
+  /* border:none; */
+}

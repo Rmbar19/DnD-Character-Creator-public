@@ -1,0 +1,25 @@
+.newcharbutton {
+    color: rgb(0, 0, 0);
+    background-image:url("tomeOfDreams.png");
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-color: transparent !important;
+    border: 0px !important;
+    background-position: center;
+    font-family: f;
+    font-size: 1.5vw;
+    /* text-align: right; */
+    /* background-size: 400px 400px; */
+    background-size: 20vw 20vw;
+    font-weight: bold;  
+    padding-top: 5vw;
+    padding-right: 6vw;
+    padding-bottom: 5vw;
+    padding-left: 0vw;
+    cursor: pointer;
+    position: fixed;
+    left: 0vw;
+    top:30vh;
+    text-shadow: rgba(153, 88, 2, 0.523) 2px 2px;
+    background-position: -7vw -3vw;
+}   
